@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Learning",
+    "tasks": "Finish my ReactNative project"
+  },
+  {
+    "id": 2,
+    "name": "Enjoy",
+    "tasks": "Walk with the dog :)"
+  },
+  {
+    "id": 3,
+    "name": "Clean energy",
+    "tasks": "Swim in the sea"
+  },
+  {
+    "id": 4,
+    "name": "Clean energy",
+    "tasks": "Yoga in the beach"
+  },
+  {
+    "id": 5,
+    "name": "Clean energy",
+    "tasks": "Train in the beach"
+  },
+  {
+    "id": 6,
+    "name": "Read",
+    "tasks": "Read: el monje que vendio su ferrari"
+  },
+  {
+    "id": 7,
+    "name": "Cook",
+    "tasks": "Cook asian food"
+  },
+  {
+    "id": 8,
+    "name": "Cook ",
+    "tasks": "Prepare paella for the neighbour party"
+  },
+  {
+    "id": 9,
+    "name": "Travel",
+    "tasks": "Travel to Menorca"
+  },
+  {
+    "id": 10,
+    "name": "Learning",
+    "tasks": "Go on with my personal project"
+  }
+]
