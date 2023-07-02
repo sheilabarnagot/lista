@@ -16,28 +16,28 @@
   },
   {
     "id": 4,
-    "name": "Clean energy",
-    "tasks": "Yoga in the beach 🙏🏻"
+    "name": "Clear energies",
+    "tasks": "Yoga on the beach 🙏🏻"
   },
   {
     "id": 5,
-    "name": "Clean energy",
-    "tasks": "Train in the beach 💪"
+    "name": "Clear energies",
+    "tasks": "Train on the beach 💪"
   },
   {
     "id": 6,
     "name": "Read",
-    "tasks": "El monje que vendio su ferrari"
+    "tasks": "Clean code book"
   },
   {
     "id": 7,
     "name": "Cook",
-    "tasks": "Cook asian food"
+    "tasks": "Cooking asian food"
   },
   {
     "id": 8,
     "name": "Cook ",
-    "tasks": "Prepare paella for the neighbour party"
+    "tasks": "Cooking paella for the neighborhodd party"
   },
   {
     "id": 9,
@@ -47,6 +47,16 @@
   {
     "id": 10,
     "name": "Learning",
-    "tasks": "Go on with my personal project"
+    "tasks": "Go on with my projects"
+  },
+  {
+    "id": 11,
+    "name": "Learning",
+    "tasks": "To learn portuguese"
+  },
+  {
+    "id": 12,
+    "name": "Travel",
+    "tasks": "Travel to Barcelona"
   }
 ]
