@@ -48,15 +48,5 @@
     "id": 10,
     "name": "Learning",
     "tasks": "Go on with my projects"
-  },
-  {
-    "id": 11,
-    "name": "Learning",
-    "tasks": "To learn portuguese"
-  },
-  {
-    "id": 12,
-    "name": "Travel",
-    "tasks": "Travel to Barcelona"
   }
 ]
